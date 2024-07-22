@@ -4,3 +4,7 @@ Deep Learning Text Classification Using LSTM for Spam Detection with Keras and T
 - Keras
 - Tensorflow
 - Python 3.7
+### *Model Architecture :*
+<p align="center">
+    <img src="LSTM.png">
+</p>
