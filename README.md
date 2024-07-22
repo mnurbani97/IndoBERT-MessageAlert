@@ -8,6 +8,7 @@ Deep Learning Text Classification Using LSTM for Spam Detection with Keras and T
 <p align="center">
     <img src="LSTM.png">
 </p>
+
 ### *Plot Training Result :*
 <p align="center">
     <img src="Val.png">
