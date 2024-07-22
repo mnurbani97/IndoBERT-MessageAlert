@@ -1,4 +1,4 @@
-# MessageAlert-IndoBERT
+# MessageAlert
 Deep Learning Text Classification Using LSTM for Spam Detection with Keras and TensorFlow
 ### *Requirements :*
 - Keras
